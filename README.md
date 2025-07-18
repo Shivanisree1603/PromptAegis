@@ -105,8 +105,7 @@ streamlit run app.py
 **Shivanisree Neethimohan**  
 Passionate about Cybersecurity and Ethical AI  
 🧠 Built this project while independently exploring the world of Generative AI.
-
-I believe in developing responsible AI systems that prioritize safety, ethics, and compliance.  
+ 
 **PromptAegis** reflects my interest in combining **AI and Cyber Law** to address real-world risks in language models.
 
 
