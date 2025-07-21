@@ -42,7 +42,6 @@ PromptAegis/
 ├── requirements.txt # Python dependencies
 ├── LICENSE # License file (MIT)
 ├── README.md # Project documentation
-└── assets/ # Screenshots and images for README
 ```
 ---
 
