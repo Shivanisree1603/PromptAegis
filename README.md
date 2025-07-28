@@ -1,4 +1,4 @@
-# 🛡️ PromptAegis – Prompt Safety & Legal Compliance Checker
+# 🛡️ Prompt Aegis – Prompt Safety & Legal Compliance Checker
 
 **PromptAegis** is an AI-powered web application that evaluates user-submitted prompts for ethical and legal violations. Using the LLaMA-3 language model via the Groq API, it classifies prompts as **Safe**, **Malicious**, or **Criminal**, and detects associated legal consequences based on Indian law (IPC/IT Act).
 
